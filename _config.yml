@@ -1,4 +1,3 @@
-layout_spectrum: 0.5558969143312424
 typography_spectrum: 0.8276306595653296
 color:
   brandStrength: 0.16786120319738984
@@ -11,4 +10,6 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
+layout_spectrum: 0.5558969143312424
 name: Lawry Boyer
+title: Architecture
