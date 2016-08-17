@@ -4,8 +4,15 @@
         <description><![CDATA[Architecture]]></description>
         <link>https://thegrid.ai/lawry-boyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 23:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 23:00:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lawry-boyer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/15d28923-9e4a-46e8-9372-7e3f3efc46fe.png">]]></description>
+            <link>https://thegrid.ai/lawry-boyer/f1566b64-e996-4b67-8191-cd0f178a2c8c/index.html</link>
+            <guid isPermaLink="false">f1566b64-e996-4b67-8191-cd0f178a2c8c</guid>
+            <pubDate>Wed, 17 Aug 2016 23:00:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/90c8d741-21e4-4e9b-939a-720e764e4c56.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/lawry-boyer/93ab1c6e-7c67-4190-ba33-273b0589ed7b/index.html</link>
             <guid isPermaLink="false">93ab1c6e-7c67-4190-ba33-273b0589ed7b</guid>
             <pubDate>Wed, 17 Aug 2016 22:58:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad9dae28-34ec-4d52-8813-8566f54f8d6b.png">]]></description>
-            <link>https://thegrid.ai/lawry-boyer/a6d10df9-1e3a-408f-920c-4b5a33782411/index.html</link>
-            <guid isPermaLink="false">a6d10df9-1e3a-408f-920c-4b5a33782411</guid>
-            <pubDate>Wed, 17 Aug 2016 22:58:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
