@@ -11,9 +11,13 @@ color:
     - '#6B574B'
     - '#160600'
 layout_spectrum: 0.48140933527611196
-name: Lawry Boyer
-title: Architecture
-description: What does a house want to be?
 author:
   name: Lawry Boyer
   email: lmboyer04@gmail.com
+name: Lawry Boyer
+navigation:
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/lawryboyer'
+    type: external
+title: Architecture
+description: What does a house want to be?
