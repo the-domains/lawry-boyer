@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Architecture]]></title>
         <description><![CDATA[Architecture]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lawry-boyer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 05:16:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Aug 2016 05:16:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lawry-boyer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/87fa81cc-489f-4a0a-aaaf-8232255d3580.jpg">]]></description>
+            <link>https://thegrid.ai/lawry-boyer/962c28a7-450b-44c2-9050-46e34dce2a5f/index.html</link>
+            <guid isPermaLink="false">962c28a7-450b-44c2-9050-46e34dce2a5f</guid>
+            <pubDate>Wed, 17 Aug 2016 05:16:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b55a4351-2642-47ff-b97d-2dd813a5d57c.jpg">]]></description>
-            <link>undefined25906e49-5e84-4478-afa8-6b209b504983/index.html</link>
+            <link>https://thegrid.ai/lawry-boyer/25906e49-5e84-4478-afa8-6b209b504983/index.html</link>
             <guid isPermaLink="false">25906e49-5e84-4478-afa8-6b209b504983</guid>
             <pubDate>Wed, 17 Aug 2016 05:16:22 GMT</pubDate>
         </item>
