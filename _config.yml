@@ -19,5 +19,8 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/lawryboyer'
     type: external
+  - name: Pinterest
+    url: 'https://www.pinterest.com/lawryboyer/'
+    type: external
 title: Architecture
 description: What does a house want to be?
