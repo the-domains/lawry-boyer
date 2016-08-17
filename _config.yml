@@ -1,16 +1,16 @@
-typography_spectrum: 0.7208018184173852
+typography_spectrum: 0.06543606938794255
 color:
-  brandStrength: 0.16786120319738984
-  lightness: 0.5033402317203581
-  saturation: 0.02145739202387631
-  rhythmicContrast: 0.9515250525437295
+  brandStrength: 0.940647846320644
+  lightness: 0.8168870599474758
+  saturation: 0.5920668495818973
+  rhythmicContrast: 0.9993714687880129
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.48140933527611196
+    - '#FFFFFF'
+    - '#999A94'
+    - '#6C7C89'
+    - '#57503E'
+    - '#A96C6C'
+layout_spectrum: 0.8846352396067232
 author:
   name: Lawry Boyer
   email: lmboyer04@gmail.com
